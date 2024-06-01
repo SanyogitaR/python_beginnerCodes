@@ -1,4 +1,4 @@
------code 1---___PASSWORDMANAGER CODE__-----
+-----code 1---___PASSWORDgENERATE CODE__-----
 In today's digital landscape, having strong, unique passwords is crucial for protecting your online accounts. 
 To make this easier, I’ve created a simple yet powerful Python script to generate secure passwords effortlessly.
 it consists of - for in loop, modules and functions python concept .
